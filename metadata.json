@@ -1,0 +1,6 @@
+{
+  "name": "The USA Wire",
+  "description": "America's Trending Stories, All in One Place. Modern USA-focused digital news and trending media platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
